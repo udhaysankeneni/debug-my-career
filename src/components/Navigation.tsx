@@ -49,7 +49,7 @@ export default function Navigation() {
           <motion.a
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            href="https://calendly.com/uday-debugmycareer/30min"
+            href="https://calendly.com/udaysankeneni/30min"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:block bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors"
@@ -91,7 +91,7 @@ export default function Navigation() {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="https://calendly.com/uday-debugmycareer/30min"
+              href="https://calendly.com/udaysankeneni/30min"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors mt-4 text-center"

@@ -76,7 +76,7 @@ export default function HomePage() {
               <motion.a
                 whileHover={{ scale: 1.05, boxShadow: "0 10px 25px rgba(59, 130, 246, 0.3)" }}
                 whileTap={{ scale: 0.95 }}
-                href="https://calendly.com/uday-debugmycareer/30min"
+                href="https://calendly.com/udaysankeneni/30min"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-blue-600 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-blue-700 transition-all flex items-center gap-2 pulse-glow"

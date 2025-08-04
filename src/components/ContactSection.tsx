@@ -55,7 +55,7 @@ export default function ContactSection({ onResumeUploadClick }: ContactSectionPr
                           <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="https://calendly.com/uday-debugmycareer/30min"
+              href="https://calendly.com/udaysankeneni/30min"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-yellow-400 text-slate-800 px-8 py-3 rounded-lg font-semibold hover:bg-yellow-300 transition-colors flex items-center gap-2 mx-auto"
