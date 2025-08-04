@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DebugMyCareer - Tech Career Coaching Website
 
-## Getting Started
+A modern, animated website for tech career coaching services built with Next.js, TypeScript, TailwindCSS, and Framer Motion.
 
-First, run the development server:
+## 🚀 Features
 
+- **Modern Design**: Clean, professional design with gradient backgrounds and modern UI elements
+- **Smooth Animations**: Powered by Framer Motion for engaging user experience
+- **Fully Responsive**: Mobile-first design that works on all devices
+- **Fast Performance**: Built with Next.js 14 and optimized for speed
+- **Accessible**: WCAG compliant with proper semantic HTML and ARIA labels
+
+## 🏗️ Tech Stack
+
+- **Framework**: Next.js 14 with App Router
+- **Language**: TypeScript
+- **Styling**: TailwindCSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Font**: Geist Sans & Geist Mono
+
+## 📱 Sections
+
+1. **Hero Section**: Eye-catching headline with clear CTAs
+2. **About Section**: Uday's background and expertise 
+3. **Stats Section**: Proven results and achievements
+4. **Services Section**: Four main service categories
+5. **Testimonials**: Client success stories
+6. **Get Started**: 3-step process overview
+7. **Contact**: Direct contact options
+8. **Footer**: Simple footer with branding
+
+## 🎨 Design Features
+
+- Gradient text animations
+- Floating background elements
+- Hover effects and micro-interactions
+- Smooth scroll animations
+- Mobile hamburger menu
+- Scroll-to-top button
+- Glass morphism effects
+- Pulse glow animations
+
+## 🚀 Getting Started
+
+1. Install dependencies:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Run the development server:
+```bash
+npm run dev
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📝 Customization
 
-## Learn More
+- Update content in individual component files
+- Modify colors in `globals.css` and Tailwind config
+- Adjust animations in component files
+- Add new sections by creating new components
 
-To learn more about Next.js, take a look at the following resources:
+## 🌟 Key Components
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `Navigation.tsx` - Responsive navigation with mobile menu
+- `AboutSection.tsx` - About Uday and services overview
+- `StatsSection.tsx` - Achievement statistics
+- `ServicesSection.tsx` - Service offerings grid
+- `TestimonialsSection.tsx` - Client testimonials
+- `GetStartedSection.tsx` - 3-step process
+- `ContactSection.tsx` - Contact forms and info
+- `ScrollToTop.tsx` - Smooth scroll to top button
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📧 Contact
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+For questions about this website, contact: uday@debugmycareer.com
